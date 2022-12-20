@@ -2,7 +2,6 @@
 Check out [my website](www.vecko.me)!
 
 <!-- Insert geospatial GIF here -->
-![Landscape](/images/landscape.jpg)
 ## About Me
 ```
 🧮💻👨‍💻 Bachelors in Maths and Data Science
@@ -18,3 +17,5 @@ Check out [my website](www.vecko.me)!
 ```
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeckoTheGecko&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Landscape](/images/landscape.jpg)
