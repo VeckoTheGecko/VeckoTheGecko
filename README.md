@@ -1,5 +1,6 @@
 # Hey there 👋, I am Vecko!
 Check out [my website](www.vecko.me)!
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeckoTheGecko&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Insert geospatial GIF here -->
 ## About Me
@@ -15,7 +16,3 @@ Check out [my website](www.vecko.me)!
 🏚 ClimateTown Knowledge Hub (project lead)
 🌊 OceanParcels (contributor)
 ```
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeckoTheGecko&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Landscape](/images/landscape.jpg)
