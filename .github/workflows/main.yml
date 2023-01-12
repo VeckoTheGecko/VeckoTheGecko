@@ -1,0 +1,26 @@
+name: generate animation SNK
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Make snek.svg
+        uses: Platane/snk@master
+        with:
+          github_user_name: VeckoTheGecko
+          svg_out_path: public/snek.svg
+
+      - name: Push snek.svg to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: public
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
