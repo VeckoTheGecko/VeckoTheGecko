@@ -1,4 +1,4 @@
-name: generate animation SNK
+name: Make snek
 
 on:
   schedule:
