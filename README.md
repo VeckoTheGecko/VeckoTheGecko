@@ -5,7 +5,8 @@
 🧮💻👨‍💻 Bachelors in Maths and Data Science
 🌲🌊🌏 Passionate about the environment and sustainability
 🌱🌱🌱 Chasing a career in earth data
-🌍🌍🌍 Open to work opportunities, local and international
+📨📨📨 Want to reach out? Whether its just to say hi, for international conferences,
+    or interesting projects, contact me at VeckoTheGecko at pm.me
 ```
 
 ### Current Projects
