@@ -19,3 +19,5 @@
 <!-- Insert geospatial GIF here -->
 
 ![Commit history snake game](https://raw.githubusercontent.com/VeckoTheGecko/VeckoTheGecko/output/snek.svg)
+
+*P.S.: Sometimes responding to issues and PRs with critique and feedback can sound harsh/rude. Know that if I've come across as rude, most likely it's me just being abrupt/time efficient and not a reflection of my mood or attitude. As much as I'd love to have great conversations/interactions with people on GitHub, sometimes I'm just here to code and get stuff shipped. Have a great day 😍*
