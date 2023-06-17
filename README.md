@@ -6,7 +6,7 @@
 🌲🌊🌏 Passionate about the environment and sustainability
 🌱🌱🌱 Chasing a career in earth data
 📨📨📨 Want to reach out? Whether its just to say hi, for international conferences,
-    or interesting projects, contact me at VeckoTheGecko at pm.me
+    or interesting projects, contact me at VeckoTheGecko at proton.me
 ```
 
 ### Current Projects
