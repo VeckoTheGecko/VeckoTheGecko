@@ -1,5 +1,4 @@
 ## Hey there 👋, I am Vecko!
-*Website and Medium articles coming soon!*
 
 ```
 🧮💻👨‍💻 Bachelors in Maths and Data Science
