@@ -10,8 +10,8 @@
 
 ### Current Projects
 ```
+🌊 OceanParcels (maintainer)
 🏚 ClimateTown Knowledge Hub (project lead)
-🌊 OceanParcels (contributor)
 ```
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeckoTheGecko&show_icons=true&theme=gotham&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
