@@ -2,7 +2,8 @@
 
 ```
 ⌨👦☕ Employed at Utrecht University
-🌱🌱🌱 Chasing a career in earth data and research software engineering
+🌱🌱🌱 Chasing a career in earth data and research software engineering, focussing on
+    the Pangeo ecosystem.
 🌲🌊🌏 Passionate about the environment and sustainability
 🐍🦀🧐 Interested in Python and Rust
 🧮💻👨‍💻 Bachelors in Maths and Data Science
