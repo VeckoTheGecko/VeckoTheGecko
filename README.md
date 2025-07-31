@@ -1,5 +1,8 @@
 ## Hey there 👋, I am Vecko!
 
+> _If I have seen further, it is by standing on the shoulders of giants._  
+> _-Isaac Newton_
+
 ```
 ⌨👦☕ Employed at Utrecht University
 🌱🌱🌱 Chasing a career in earth data and research software engineering, focussing on
