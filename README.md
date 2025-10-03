@@ -3,6 +3,8 @@
 > _If I have seen further, it is by standing on the shoulders of giants._  
 > _-Isaac Newton_
 
+_Please tag me @VeckoTheGecko if you want my feedback on things. I get a lot of notifications - it helps me filter out the signal from the noise._
+
 ```
 ⌨👦☕ Employed at Utrecht University
 🌱🌱🌱 Chasing a career in earth data and research software engineering, focussing on
