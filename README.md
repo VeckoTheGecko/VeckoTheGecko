@@ -23,6 +23,7 @@ _Please tag me @VeckoTheGecko if you want my feedback on things. I get a lot of 
 ### Current Projects
 ```
 🌊 Parcels (maintainer)
+📦 Xarray (maintainer)
 🏚 ClimateTown Knowledge Hub (project lead)
 ```
 
